@@ -1,0 +1,8 @@
+Teljesítménymérés
+A Train Benchmark
+Kényszerek
+A fejlesztés lépései
+Gráfadatbázisok
+Graph Engine
+Mérési eredmények
+Konklúzió
