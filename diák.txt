@@ -6,3 +6,6 @@ Gráfadatbázisok
 Graph Engine
 Mérési eredmények
 Konklúzió
+
+TODO:
+Spellcheck
